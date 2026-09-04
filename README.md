@@ -446,16 +446,6 @@ The system can potentially support:
 9. Salamon & Bello — Environmental Sound Classification
 10. Çakır et al. — Convolutional Recurrent Neural Networks for Sound Event Detection
 
----
-
-## 👥 Team
-
-**IT3 — Speech Processing Project**
-
-* Nguyễn Đình Huy
-* Lục Thế Vỹ
-* Đặng Thiên Bách
-* Dương Minh Tâm
 
 ---
 
